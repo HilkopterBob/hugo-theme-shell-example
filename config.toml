@@ -1,4 +1,4 @@
-baseURL = "https://nicks-homelab.net"
+baseURL = "https://nicks-homelab.org"
 languageCode = "en-us"
 title = "Nick von Podewils"
 theme = "hugo-theme-shell"
