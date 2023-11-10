@@ -1,6 +1,6 @@
 baseURL = "https://hugo-theme-shell.netlify.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Nick von Podewils"
 theme = "hugo-theme-shell"
 
 [Params]
@@ -10,8 +10,8 @@ theme = "hugo-theme-shell"
     [Params.Tree]
     use = true
     files = [
-        ["C/C++", "https://www.example.com/"],
-        ["Python", "https://www.example.com/"],
-        ["Go", "/works/go.md"],
-        ["Hugo", "/works/hugo.md"]
+        ["Blog", "https://nicks-homelab.com/"],
+        ["CV", "/works/cv.md"],
+        ["GitHub", "https://github.com/HilkopterBob"],
+        ["Imprint and legal notice", "https://libraryofbabel.info/"]
     ]
