@@ -22,7 +22,7 @@ theme = "hugo-theme-shell"
     use = true
     files = [
         ["Blog", "https://nicks-homelab.com/"],
-        ["CV", "content/works/cv.md"],
+        ["CV", "/works/go.md"],
         ["GitHub", "https://github.com/HilkopterBob"],
         ["Imprint and legal notice", "https://libraryofbabel.info/"]
     ]
