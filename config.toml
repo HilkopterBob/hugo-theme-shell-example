@@ -7,6 +7,17 @@ theme = "hugo-theme-shell"
     [Params.Terminal]
     schema = "monokai"
 
+    userName = "nick"
+    pcName = "deep_thought"
+    workDir = "42"
+    profile = "profile.txt"
+
+    description = """
+    Hi I'm Nick, HA-Linux Admin.
+    """
+  
+
+
     [Params.Tree]
     use = true
     files = [
