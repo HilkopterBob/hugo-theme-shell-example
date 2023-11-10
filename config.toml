@@ -1,4 +1,4 @@
-baseURL = "https://hugo-theme-shell.netlify.app/"
+baseURL = "https://nicks-homelab.net"
 languageCode = "en-us"
 title = "Nick von Podewils"
 theme = "hugo-theme-shell"
